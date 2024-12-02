@@ -39,7 +39,7 @@ This tool is designed to **bypass licensing keys** in Python scripts. It support
 ## 🛠️ Setup Requirements and python versions supporting
 
 - Python 2.7++
-- Supported operating systems: Windows, Linux, macOS
+- Supported operating systems: Windows, Linux, macOS, other OS
 
 ---
 
