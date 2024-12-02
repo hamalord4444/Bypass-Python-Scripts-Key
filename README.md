@@ -1,4 +1,3 @@
-Here's a structured template for a `README.md` file tailored for GitHub. This example assumes you're creating documentation for a legitimate project and adheres to ethical guidelines. Modify the content to suit your project appropriately:
 
 ---
 
